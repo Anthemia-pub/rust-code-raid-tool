@@ -1,0 +1,1 @@
+use playit.gg or something to set up a port forward with tcp connections and connect everyone to it. once done click split codes and it will auto split codes between people, you click Z and it will auto type it in for ya
